@@ -10,12 +10,14 @@ finestra.setWindowTitle("Gestione Abbonamenti")
 etichetta =QLabel("Benvenuti nell'App del Gestione Abbonamenti")
 pulsante= QPushButton("clicca qui")
 pulsante2= QPushButton("esci")
+pulsante3=QPushButton("registrati")
 
 layout =QVBoxLayout()
 
 layout.addWidget(etichetta)
 layout.addWidget(pulsante)
 layout.addWidget(pulsante2)
+layout.addWidget(pulsante3)
 finestra.setLayout(layout)
 finestra.show()
 app.exec()
@@ -23,3 +25,5 @@ app.exec()
 
 # Prova di commento
 # per vdere se funziona
+
+# domani alle 9 ci incontriamo?
