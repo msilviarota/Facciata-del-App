@@ -28,3 +28,5 @@ app.exec()
 
 # domani alle 9 ci incontriamo?
 # ciaooooooooo
+
+# prova verifica riga
