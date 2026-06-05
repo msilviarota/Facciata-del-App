@@ -27,3 +27,4 @@ app.exec()
 # per vdere se funziona
 
 # domani alle 9 ci incontriamo?
+# ciaooooooooo
