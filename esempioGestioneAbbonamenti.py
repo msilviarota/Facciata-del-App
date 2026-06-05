@@ -30,3 +30,6 @@ app.exec()
 # ciaooooooooo
 
 # prova verifica riga
+#voglio un libro
+#peste 
+#la peste sta dormendo
