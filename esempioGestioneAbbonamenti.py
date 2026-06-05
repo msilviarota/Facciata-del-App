@@ -32,3 +32,4 @@ app.exec()
 # prova verifica riga
 #voglio un libro
 #peste 
+#la peste sta dormendo
